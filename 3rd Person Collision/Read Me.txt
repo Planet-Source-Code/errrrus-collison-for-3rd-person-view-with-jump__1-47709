@@ -1,0 +1,21 @@
+3rd Person Collision Detection (Mesh Collision)  with Jump
+
+I hope u can use this. I took this out directly from my game.
+I took alot of stuff that u don't need out. For example Automated Mesh loading.
+You are free to use any of this code but if u use the camera code plz
+at least tell me.
+
+All of the collision Code are in the Actor_Mod module.
+The sub WalkoverMesh in that module makes the actor walk on the wall.
+ANd when ever he presses left or right the sub Actor_Pressed_Up gets activated.
+And There it checks all the collision and thats kinda it.
+If u have any question or suggestion email me.
+
+By Pavel
+Mail: shah_pavel@hotmail.com
+http://neodream.servegame.com
+
+NOTE!!!!
+You are required to have TV 6 Final. Download from http://www.truevision3d.com
+Either the Lite version or full version will do.
+Download Full version if you want to learn TV3D since it contains a lot of samples and tutorials.
